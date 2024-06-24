@@ -1,0 +1,13 @@
+Hi my name is Chenghong Ren and welcome to my presentation regarding my final year project on meta-learning for wireless communication optimization, within this presentation I will first give some back ground information relating to the project and present the goal of the project. The I will showcase the implementation and methods used to achieve the goals and how we test if we achieved those goal. And finally we will go over the results and some discussions about my findings.
+
+First we have to look at the classical problem of wireless communication, shown here is a simple single communication link where the intended message signal is transmitted and passed through some channel with added noise and interference and finally the message is attempted to be recovered at the output of the receiver.
+
+However recently with the rise of machine learning there has been several papers discussing the use of an auto-encoder as a solution to this problem where the transmitter and the receiver is replace with a encoder and decoder respectively. Where the encoder will learn some mapping and decoder will learn to decode the intended message.
+
+However there are several obstacles in using machine learning for wireless communication problems, first machine learning models typically takes a large amount of data and time to train, second the channel conditions tend to change quite rapidly so the use of machines seems to be not feasiable in real world scenarios.
+
+So multi-task learning was proposed as a method to solve this problem. The core concept of multi-task learning is to train the model on several related tasks simultaneously to find some common representation and share them to improve the performance by leveraging the commonalities.
+
+The two methods in multi-task learning we are focusing on is joint training and meta learning. Joint-learning aims to find a common model which works for all channel conditions such as SNR, so the model does not need to adapt to new channels. However meta-learning is different as it intends to find a common initial model which can be adapted quickly to suit different channel conditions.
+
+A quick overview of the meta-learning algorithm can be seen here where there is a initial training step where loss is calculated from multiple channels and it is used in a second training step where it is tested on a brand new channel. The model is then updated with the error generated from the new test. Joint training is similar however the there is no second training step and the model is updated with the sum of losses from a sample of channels.

@@ -1,0 +1,360 @@
+curr adaptation:  0
+current channel ind 0
+for snr:  15 bler:  0.659887
+current channel ind 1
+for snr:  15 bler:  0.473317
+current channel ind 2
+for snr:  15 bler:  0.399034
+current channel ind 3
+for snr:  15 bler:  0.26018300000000005
+current channel ind 4
+for snr:  15 bler:  0.14729000000000003
+current channel ind 5
+for snr:  15 bler:  0.22091099999999997
+current channel ind 6
+for snr:  15 bler:  0.507306
+current channel ind 7
+for snr:  15 bler:  0.17364000000000002
+current channel ind 8
+for snr:  15 bler:  0.134787
+current channel ind 9
+for snr:  15 bler:  0.23356299999999997
+current channel ind 10
+for snr:  15 bler:  0.09036500000000003
+current channel ind 11
+for snr:  15 bler:  0.42160699999999995
+current channel ind 12
+for snr:  15 bler:  0.160956
+current channel ind 13
+for snr:  15 bler:  0.19780299999999995
+current channel ind 14
+for snr:  15 bler:  0.10295399999999999
+current channel ind 15
+for snr:  15 bler:  0.167918
+current channel ind 16
+for snr:  15 bler:  0.389958
+current channel ind 17
+for snr:  15 bler:  0.015492999999999979
+current channel ind 18
+for snr:  15 bler:  0.088225
+current channel ind 19
+for snr:  15 bler:  0.11495
+curr adaptation:  1
+current channel ind 0
+for snr:  15 bler:  0.658141
+current channel ind 1
+for snr:  15 bler:  0.471406
+current channel ind 2
+for snr:  15 bler:  0.39665399999999995
+current channel ind 3
+for snr:  15 bler:  0.25707800000000003
+current channel ind 4
+for snr:  15 bler:  0.14521700000000004
+current channel ind 5
+for snr:  15 bler:  0.21632200000000001
+current channel ind 6
+for snr:  15 bler:  0.504278
+current channel ind 7
+for snr:  15 bler:  0.168632
+current channel ind 8
+for snr:  15 bler:  0.13323300000000005
+current channel ind 9
+for snr:  15 bler:  0.231757
+current channel ind 10
+for snr:  15 bler:  0.08799100000000004
+current channel ind 11
+for snr:  15 bler:  0.41817400000000005
+current channel ind 12
+for snr:  15 bler:  0.15871599999999997
+current channel ind 13
+for snr:  15 bler:  0.19545500000000005
+current channel ind 14
+for snr:  15 bler:  0.10123599999999999
+current channel ind 15
+for snr:  15 bler:  0.165393
+current channel ind 16
+for snr:  15 bler:  0.38670899999999997
+current channel ind 17
+for snr:  15 bler:  0.014098999999999973
+current channel ind 18
+for snr:  15 bler:  0.08619600000000005
+current channel ind 19
+for snr:  15 bler:  0.11256200000000005
+curr adaptation:  2
+current channel ind 0
+for snr:  15 bler:  0.655149
+current channel ind 1
+for snr:  15 bler:  0.46919999999999995
+current channel ind 2
+for snr:  15 bler:  0.39541400000000004
+current channel ind 3
+for snr:  15 bler:  0.252721
+current channel ind 4
+for snr:  15 bler:  0.14103600000000005
+current channel ind 5
+for snr:  15 bler:  0.21519200000000005
+current channel ind 6
+for snr:  15 bler:  0.500102
+current channel ind 7
+for snr:  15 bler:  0.16522899999999996
+current channel ind 8
+for snr:  15 bler:  0.13096799999999997
+current channel ind 9
+for snr:  15 bler:  0.229248
+current channel ind 10
+for snr:  15 bler:  0.08484899999999995
+current channel ind 11
+for snr:  15 bler:  0.41656499999999996
+current channel ind 12
+for snr:  15 bler:  0.156524
+current channel ind 13
+for snr:  15 bler:  0.19462000000000002
+current channel ind 14
+for snr:  15 bler:  0.09912100000000001
+current channel ind 15
+for snr:  15 bler:  0.16320199999999996
+current channel ind 16
+for snr:  15 bler:  0.38458800000000004
+current channel ind 17
+for snr:  15 bler:  0.013052999999999981
+current channel ind 2
+for snr:  15 bler:  0.38979699999999995
+current channel ind 3
+for snr:  15 bler:  0.24178500000000003
+current channel ind 4
+for snr:  15 bler:  0.132834
+current channel ind 5
+for snr:  15 bler:  0.204152
+current channel ind 6
+for snr:  15 bler:  0.490544
+current channel ind 7
+for snr:  15 bler:  0.15097099999999997
+current channel ind 8
+for snr:  15 bler:  0.12620399999999998
+current channel ind 9
+for snr:  15 bler:  0.2249
+current channel ind 10
+for snr:  15 bler:  0.077187
+current channel ind 11
+for snr:  15 bler:  0.407995
+current channel ind 12
+for snr:  15 bler:  0.14834199999999997
+current channel ind 13
+for snr:  15 bler:  0.188477
+current channel ind 14
+for snr:  15 bler:  0.095271
+current channel ind 15
+for snr:  15 bler:  0.15663099999999996
+current channel ind 16
+for snr:  15 bler:  0.37250700000000003
+current channel ind 17
+for snr:  15 bler:  0.01064900000000002
+current channel ind 18
+for snr:  15 bler:  0.08030700000000002
+current channel ind 19
+for snr:  15 bler:  0.10305399999999998
+curr adaptation:  10
+current channel ind 0
+for snr:  15 bler:  0.6369819999999999
+current channel ind 1
+for snr:  15 bler:  0.450404
+current channel ind 2
+for snr:  15 bler:  0.38100500000000004
+current channel ind 3
+for snr:  15 bler:  0.231699
+current channel ind 4
+for snr:  15 bler:  0.12506799999999996
+current channel ind 5
+for snr:  15 bler:  0.190801
+current channel ind 6
+for snr:  15 bler:  0.475641
+current channel ind 7
+for snr:  15 bler:  0.132587
+current channel ind 8
+for snr:  15 bler:  0.11673199999999995
+current channel ind 9
+for snr:  15 bler:  0.21700399999999997
+current channel ind 10
+for snr:  15 bler:  0.06758699999999995
+current channel ind 11
+for snr:  15 bler:  0.396374
+current channel ind 12
+for snr:  15 bler:  0.140501
+current channel ind 13
+for snr:  15 bler:  0.17897200000000002
+current channel ind 14
+for snr:  15 bler:  0.08750500000000005
+current channel ind 15
+for snr:  15 bler:  0.14994600000000002
+current channel ind 16
+for snr:  15 bler:  0.35981700000000005
+current channel ind 17
+for snr:  15 bler:  0.008012000000000019
+current channel ind 18
+for snr:  15 bler:  0.07242000000000004
+current channel ind 19
+for snr:  15 bler:  0.09378600000000004
+curr adaptation:  100
+current channel ind 0
+for snr:  15 bler:  0.5113730000000001
+current channel ind 1
+for snr:  15 bler:  0.32810399999999995
+current channel ind 2
+for snr:  15 bler:  0.26541800000000004
+current channel ind 3
+for snr:  15 bler:  0.12512800000000002
+current channel ind 4
+for snr:  15 bler:  0.06128199999999995
+current channel ind 5
+for snr:  15 bler:  0.09257099999999996
+current channel ind 6
+for snr:  15 bler:  0.322535
+current channel ind 7
+for snr:  15 bler:  0.03511900000000001
+current channel ind 8
+for snr:  15 bler:  0.05755699999999997
+current channel ind 9
+for snr:  15 bler:  0.137027
+current channel ind 10
+for snr:  15 bler:  0.013046000000000002
+current channel ind 11
+for snr:  15 bler:  0.26188999999999996
+current channel ind 12
+for snr:  15 bler:  0.078063
+current channel ind 13
+for snr:  15 bler:  0.09566200000000002
+current channel ind 14
+for snr:  15 bler:  0.04011100000000001
+current channel ind 15
+for snr:  15 bler:  0.06448799999999999
+current channel ind 16
+for snr:  15 bler:  0.23297
+current channel ind 17
+for snr:  15 bler:  0.0007169999999999677
+current channel ind 18
+for snr:  15 bler:  0.028873999999999955
+current channel ind 19
+for snr:  15 bler:  0.027368999999999977
+curr adaptation:  200
+current channel ind 0
+for snr:  15 bler:  0.44923900000000005
+current channel ind 1
+for snr:  15 bler:  0.262004
+current channel ind 2
+for snr:  15 bler:  0.184434
+current channel ind 3
+for snr:  15 bler:  0.083507
+current channel ind 4
+for snr:  15 bler:  0.03922400000000004
+current channel ind 5
+for snr:  15 bler:  0.06024799999999997
+current channel ind 6
+for snr:  15 bler:  0.24591300000000005
+current channel ind 7
+for snr:  15 bler:  0.01866100000000004
+current channel ind 8
+for snr:  15 bler:  0.03471500000000005
+current channel ind 9
+for snr:  15 bler:  0.10270299999999999
+current channel ind 10
+for snr:  15 bler:  0.00461900000000004
+current channel ind 11
+for snr:  15 bler:  0.197747
+current channel ind 12
+for snr:  15 bler:  0.05171199999999998
+current channel ind 13
+for snr:  15 bler:  0.058374999999999955
+current channel ind 14
+for snr:  15 bler:  0.021692999999999962
+current channel ind 15
+for snr:  15 bler:  0.03166599999999997
+current channel ind 16
+for snr:  15 bler:  0.17107499999999998
+current channel ind 17
+for snr:  15 bler:  0.00035200000000001896
+current channel ind 18
+for snr:  15 bler:  0.01598200000000005
+current channel ind 19
+for snr:  15 bler:  0.013444000000000011
+curr adaptation:  1000
+current channel ind 0
+for snr:  15 bler:  0.21565199999999995
+current channel ind 1
+for snr:  15 bler:  0.08611199999999997
+current channel ind 2
+for snr:  15 bler:  0.02345699999999995
+current channel ind 3
+for snr:  15 bler:  0.008233000000000046
+current channel ind 4
+for snr:  15 bler:  0.005454999999999988
+current channel ind 5
+for snr:  15 bler:  0.011329000000000033
+current channel ind 6
+for snr:  15 bler:  0.07643699999999998
+current channel ind 7
+for snr:  15 bler:  0.0025730000000000475
+current channel ind 8
+for snr:  15 bler:  0.0034330000000000194
+current channel ind 9
+for snr:  15 bler:  0.022194000000000047
+current channel ind 10
+for snr:  15 bler:  0.0004229999999999512
+current channel ind 11
+for snr:  15 bler:  0.029098999999999986
+current channel ind 12
+for snr:  15 bler:  0.007303999999999977
+current channel ind 13
+for snr:  15 bler:  0.007438999999999973
+current channel ind 14
+for snr:  15 bler:  0.0013889999999999736
+current channel ind 15
+for snr:  15 bler:  0.002615000000000034
+current channel ind 16
+for snr:  15 bler:  0.031205999999999956
+current channel ind 17
+for snr:  15 bler:  2.0000000000020002e-05
+current channel ind 18
+for snr:  15 bler:  0.0010219999999999674
+current channel ind 19
+for snr:  15 bler:  0.0014129999999999976
+curr adaptation:  10000
+current channel ind 0
+for snr:  15 bler:  0.010023000000000004
+current channel ind 1
+for snr:  15 bler:  0.0013980000000000103
+current channel ind 2
+for snr:  15 bler:  0.00011899999999998023
+current channel ind 3
+for snr:  15 bler:  1.3000000000040757e-05
+current channel ind 4
+for snr:  15 bler:  1.3000000000040757e-05
+current channel ind 5
+for snr:  15 bler:  0.00023700000000004273
+current channel ind 6
+for snr:  15 bler:  0.0019639999999999658
+current channel ind 7
+for snr:  15 bler:  1.0000000000287557e-06
+current channel ind 8
+for snr:  15 bler:  4.000000000004e-06
+current channel ind 9
+for snr:  15 bler:  0.0004070000000000462
+current channel ind 10
+for snr:  15 bler:  1.0000000000287557e-06
+current channel ind 11
+for snr:  15 bler:  0.00018600000000001948
+current channel ind 12
+for snr:  15 bler:  3.6000000000036e-05
+current channel ind 13
+for snr:  15 bler:  5.100000000002325e-05
+current channel ind 14
+for snr:  15 bler:  5.000000000032756e-06
+current channel ind 15
+for snr:  15 bler:  2.4000000000024002e-05
+current channel ind 16
+for snr:  15 bler:  0.00018099999999998673
+current channel ind 17
+for snr:  15 bler:  0.0
+current channel ind 18
+for snr:  15 bler:  1.0000000000287557e-06
+current channel ind 19
+for snr:  15 bler:  1.399999999995849e-05
